@@ -1,0 +1,12 @@
+{
+    "Name": "Post Transform Center Mode (Standalone/Lift)",
+    "Owner": "shreddism",
+    "Description": "Used with Absolute Mode, this places the cursor to the center of the display area at reset.\nSoon to be added to The Saturn Collection as an output mode with bindings and settings.\n",
+    "PluginVersion": "0.0.1",
+    "SupportedDriverVersion": "0.6.6.2",
+    "RepositoryUrl": "https://github.com/shreddism/plugs/dostuff/CenterMode",
+    "DownloadUrl": "https://github.com/shreddism/plugs/releases/download/PTCM0.0.1/PTCenterMode.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "1c1ed96722c24b00a3bc855906e2fe9e1df492d1084cccae0f079fa2b80d3fda",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
