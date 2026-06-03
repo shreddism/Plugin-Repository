@@ -2,7 +2,7 @@
     "Name": "The Saturn Collection",
     "Owner": "shreddism",
     "Description": "Pre-release version!\nThis wasn't PR'ed to the main repo for one reason or another.",
-    "PluginVersion": "100.0.0.1",
+    "PluginVersion": "0.100.0.1",
     "SupportedDriverVersion": "0.6.7",
     "RepositoryUrl": "https://github.com/shreddism/TheSaturnCollection",
     "DownloadUrl": "https://github.com/shreddism/TheSaturnCollection/releases/download/propertag/Saturn.zip",
