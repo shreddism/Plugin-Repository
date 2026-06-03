@@ -2,12 +2,12 @@
     "Name": "The Saturn Collection",
     "Owner": "shreddism",
     "Description": "Pre-release version!\nThis wasn't PR'ed to the main repo for one reason or another.",
-    "PluginVersion": "1.0.0a1",
+    "PluginVersion": "1.0.0.0.1",
     "SupportedDriverVersion": "0.6.7.0",
     "RepositoryUrl": "https://github.com/shreddism/TheSaturnCollection",
-    "DownloadUrl": "https://github.com/shreddism/TheSaturnCollection/releases/download/1.0.0a1/Saturn.zip",
+    "DownloadUrl": "https://github.com/shreddism/TheSaturnCollection/releases/download/propertag/Saturn.zip",
     "CompressionFormat": "zip",
-    "SHA256": "c8bf724d05f718b1338e9c608e7548cb2e947125198dca233bf34b341be624cf",
+    "SHA256": "c6b1f2a5bbc8ae2f77f9ec2d68ad8cfbd586b9a8ed2e3d12567e0cdf3a17c4ce",
     "WikiUrl": "https://github.com/shreddism/TheSaturnCollection/blob/main/README.md",
     "LicenseIdentifier": "GPL-3.0-only"
 }
