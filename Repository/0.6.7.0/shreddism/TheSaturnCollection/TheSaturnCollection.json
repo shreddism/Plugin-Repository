@@ -1,7 +1,7 @@
 {
     "Name": "The Saturn Collection",
     "Owner": "shreddism",
-    "Description": "The Enhanced Plugin Experience.\n - Configurable antichatter with virtually 0 extra latency\n - Prediction improvements and bugfixing on certain tablets\n - Massive improvements in the above as well as interpolation timing for Wacom PTK-x70 tablets\n - Output mode with realtime area changing and bindable actions\n ...and more!",   
+    "Description": "The Enhanced Plugin Experience.\n - Configurable antichatter with virtually 0 extra latency\n - Prediction improvements and bugfixing on certain tablets\n - Massive improvements in the above as well as interpolation timing for Wacom PTK-x70 tablets\n - Output mode with realtime area changing and bindable actions\n ...and more!",
     "PluginVersion": "0.10.3",
     "SupportedDriverVersion": "0.6.7",
     "RepositoryUrl": "https://github.com/shreddism/TheSaturnCollection",
